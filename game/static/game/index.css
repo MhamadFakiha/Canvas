@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+}
+canvas{
+    box-sizing: border-box;
+    background-color: aqua;
+}
